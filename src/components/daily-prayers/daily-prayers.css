@@ -1,0 +1,76 @@
+.title{
+    margin-left:440px;
+    font-family: "Roboto", Arial !important;
+    font-weight: 600;
+    font-size:x-large;
+    color: white;
+}
+
+.welcome{
+    font-family: "Roboto", Arial !important;
+    font-weight: 600;
+    font-size:x-large;
+    color: white;
+}
+
+
+.prayer1{
+    margin-left:50px;
+    border-radius: 50px;
+    font-family: "Roboto", Arial !important;
+    padding: 15px;
+    background-color: #ffa64d;
+    border-color: white;
+    font-size:large;
+    color: white;
+}
+
+.prayer2{
+    margin-left:60px;
+    border-radius: 50px;
+    font-family: "Roboto", Arial !important;
+    padding: 15px;
+    background-color: #84d2f6;
+    border-color: white;
+    color: white;
+    font-size:large;
+}
+
+.prayer3{
+    margin-left:70px;
+    border-radius: 50px;
+    font-family: "Roboto", Arial !important;
+    padding: 15px;
+    background-color: #3da5d9;
+    border-color: white;
+    font-size:large;
+    color: white;
+}
+
+.prayer4{
+    margin-left:80px;
+    border-radius: 50px;
+    font-family: "Roboto", Arial !important;
+    padding: 15px;
+    background-color: #005f73;
+    border-color: white;
+    font-size:large;
+    color: white;
+}
+
+
+.prayer5{
+    margin-left:90px;
+    border-radius: 50px;
+    font-family: "Roboto", Arial !important;
+    padding: 15px;
+    background-color: #094365;
+    border-color: white;
+    font-size:large;
+    color: white;
+}
+
+
+
+
+
